@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/deepanshu210306/X.com-clone-#readme",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "@tailwindcss/cli": "^4.1.8",
     "tailwindcss": "^4.1.8"
   }
